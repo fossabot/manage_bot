@@ -1,2 +1,3 @@
-# manage_bot
-Team. Jeonghee 관리 봇 오픈소스
+
+# Project_Gura
+- Team. Jeonghee 관리 봇 Gura 오픈소스
